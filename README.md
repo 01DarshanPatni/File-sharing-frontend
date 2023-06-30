@@ -8,7 +8,7 @@ Simple file sharing web app with drag and drop file upload
 2. CSS
 3. JavaScript
 4. MERN
-5. MongoDB
+5. MongoDB.
 
 
 
